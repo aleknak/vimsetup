@@ -519,3 +519,9 @@ nnoremap <Leader>h :call ViewHtmlText(@+)<CR>
 
 " HAML Coffee syntax highlighting
 au BufRead,BufNewFile *.hamlc set ft=haml
+
+" Powerline fancy symbols
+let g:Powerline_symbols = 'fancy'
+
+" UTF-8 encoding
+set encoding=utf-8
