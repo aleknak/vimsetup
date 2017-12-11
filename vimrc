@@ -525,3 +525,6 @@ let g:Powerline_symbols = 'fancy'
 
 " UTF-8 encoding
 set encoding=utf-8
+
+" fix BrowserSync nightmares
+set backupcopy=yes
